@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="title_activity_calculator_action">CalculatorAction</string>
+    <string name="title_activity_calculator_button">CalculatorButton</string>
+    <string name="title_activity_calculator_operation">CalculatorOperation</string>
+    <string name="title_activity_calculator_state">CalculatorState</string>
+    <string name="title_activity_calculator_view_model">CalculatorViewModel</string>
 </resources>
